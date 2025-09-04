@@ -7,6 +7,6 @@
     <title>Halo</title>
 </head>
 <body>
-    <h1>Halo Selamat Datang {{ $name }}, dari Blade</h1>
+    <h1>Halo Selamat Datang {{ $nama }}, dari Blade</h1>
 </body>
 </html>
